@@ -1,0 +1,44 @@
+best model on validation shtA1_train: evaluate shtechA_0_5399.h5 on shtA1_test: mae: 145.24
+best model on validation shtA1_train: evaluate shtechA_1_5399.h5 on shtA1_test: mae: 137.86
+train data: shtA9RandomOverturn_train
+validation data: shtA1_train
+test data: shtA1_test
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+epoch:    0 train loss: 0.02453769141440694662
+evaluate shtechA_0_5399.h5 on shtA1_train: mae: 149.79, mse: 191.91, psnr:  17.54, ssim:   0.42, game: 149.79, 174.15, 189.46, 209.36
+evaluate shtechA_0_5399.h5 on shtA1_test: mae: 145.24, mse: 179.43, psnr:  17.27, ssim:   0.40, game: 145.24, 164.70, 180.15, 199.83
+best model on shtA1_train is shtechA_0_5399.h5 with mae of 149.79
+best model on shtA1_test is shtechA_0_5399.h5 with mae of 145.24
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+epoch:    1 train loss: 0.02012461436358480016
+evaluate shtechA_1_5399.h5 on shtA1_train: mae: 146.49, mse: 204.92, psnr:  17.28, ssim:   0.42, game: 146.49, 157.86, 176.17, 201.82
+evaluate shtechA_1_5399.h5 on shtA1_test: mae: 137.86, mse: 183.17, psnr:  16.93, ssim:   0.40, game: 137.86, 152.08, 168.01, 192.51
+best model on shtA1_train is shtechA_1_5399.h5 with mae of 146.49
+best model on shtA1_test is shtechA_1_5399.h5 with mae of 137.86
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+epoch:    2 train loss: 0.01882729683491876638
+evaluate shtechA_2_5399.h5 on shtA1_train: mae: 169.16, mse: 218.36, psnr:  18.56, ssim:   0.43, game: 169.16, 173.72, 182.05, 197.72
+evaluate shtechA_2_5399.h5 on shtA1_test: mae: 153.72, mse: 197.84, psnr:  18.17, ssim:   0.41, game: 153.72, 164.75, 175.00, 192.48
+best model on shtA1_train is shtechA_1_5399.h5 with mae of 146.49
+best model on shtA1_test is shtechA_1_5399.h5 with mae of 137.86
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+train data: shtA9RandomOverturn_train
+validation data: shtA1_train
+test data: shtA1_test
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+train data: shtA9RandomOverturn_train
+validation data: shtA1_train
+test data: shtA1_test
+learning rate: 1.00e-05
+learning rate: 1.00e-05
+learning rate: 1.00e-05
